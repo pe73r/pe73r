@@ -9,12 +9,13 @@ pe73r/pe73r is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
  Hi 👋,  welcome to my Github!
+ 
  Shopify Front-End Developer since 2019
 
 
 🛠 Technologies and tools
-HTML5  CSS3  JavaScript Git npm   
-Shopify Notion Figma Jira ClickUp Visual Studio Code
+
+HTML5 /  CSS3 / JavaScript / Git / Shopify / Notion / Figma / Jira / ClickUp / Visual Studio Code
 
 💻 Agencies
 Studio Zerance / Nowmade / We-Trust / Reduncle / Mr.Milu
