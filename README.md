@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 HTML5 /  CSS3 / JavaScript / Git / Shopify / Notion / Figma / Jira / ClickUp / Visual Studio Code
 
 💻 Agencies
+
 Studio Zerance / Nowmade / We-Trust / Reduncle / Mr.Milu
 
 Made with 💖 on Shopify
